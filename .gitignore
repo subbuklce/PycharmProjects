@@ -1,2 +1,8 @@
-venv
+server-client/venv/*
+server-client/.idea/*
+PhotoParser/venv/*
+PhotoParser/.idea/*
+
+
+
 
